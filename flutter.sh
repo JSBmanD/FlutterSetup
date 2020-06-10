@@ -14,7 +14,7 @@ fi
 if [[ $NUMBER -eq 2 ]]
 then
 pod repo update
-git clone -b v1.12.13-hotfixes https://github.com/flutter/flutter.git
+git clone -b stable https://github.com/flutter/flutter.git
 #brew tap dart-lang/dart
 #brew install dart
 #/usr/local/opt/dart/libexec
