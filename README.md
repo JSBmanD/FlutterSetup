@@ -6,7 +6,7 @@ git clone https://github.com/JSBmanD/FlutterSetup.git && mv FlutterSetup/flutter
 
 To run this script after first time - execute:
 ```sh
-sudo ./flutter.sh
+./flutter.sh
 ```
 
 After this you will be asked what to do. Enter number and press [ENTER]
